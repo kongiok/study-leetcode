@@ -1,1 +1,1 @@
-# Leetcode Revisions {leetcode-revision}
+# Leetcode Revisions 
